@@ -12,7 +12,7 @@
 - 👨🏽‍💻 I'm currently learning to create API's and working on scripting
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - 👨‍💻 All of my projects are available at **[My Github Account](https://github.com/bhanushuklaa?tab=repositories)**
-- 📫 You can reach me at [linkedin!][linkedin] or send me a personalized **<a href="https://www.linkedin.com/in/bhanu-pratap-s-84b06121b">LinkedIn</a>** 
+- 📫 You can reach me at [linkedin] or send me a personalized **<a href="https://www.linkedin.com/in/bhanu-pratap-s-84b06121b">LinkedIn</a>** 
 - 🧗 I try to: Go beyond and push the bounds
 - ⚡ Fun fact **I like to collect different types of hacking tools for educational purpose and for security purpose**
 
