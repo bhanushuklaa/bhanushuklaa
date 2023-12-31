@@ -32,12 +32,9 @@
 <img align="left" alt="PHP" width="35px" height="35px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.pkqphAig1t-PCsy4dkVrfAHaD5%26pid%3DApi&f=1&ipt=3f863e850090f5ab280f967f295d666ec2b1e5b7ef0a45f01058f7c98dfc44a4&ipo=images" />
 <img align="left" alt="Linux" width="35px" src="https://seeklogo.com/images/L/Linux-logo-CFCA1C571C-seeklogo.com.png" /><br>
 </p>
+<br/>
+<br/>
 <div>
-<h3 alight="left">Activity:</h3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhanushuklaa&" alt="bhanushuklaa" /></p>
-</div>
-<br/>
-<br/>
 
 ## Current GitHub Stats 📊
 ![Stats](https://github-readme-stats.vercel.app/api?username=bhanushuklaa&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true)<br>
@@ -45,6 +42,7 @@
 
 ![Bhanu's Last 30 Days Github Activity Graph](https://bhanu-github-readme-activity-graph.vercel.app/graph?username=bhanushuklaa&theme=tokyo-night)
 
-
-
+<h3 alight="left">Activity:</h3>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhanushuklaa&" alt="bhanushuklaa" /></p>
+</div>
 ---------------Thank You For Visiting----------------
