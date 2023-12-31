@@ -45,7 +45,7 @@
 ![Bhanu's Last 30 Days Github Activity Graph](https://bhanu-github-readme-activity-graph.vercel.app/graph?username=bhanushuklaa&theme=tokyo-night)
 
 <br>
-<h3 alight="left">Activity:</h3>
+<h3 alight="left">Activity:</h3><hr>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhanushuklaa&" alt="bhanushuklaa" /></p>
 </div>
 ---------------Thank You For Visiting----------------
