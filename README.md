@@ -28,9 +28,9 @@
 <img align="left" alt="Nodejs" width="35px" src="https://cdn-icons-png.flaticon.com/128/919/919825.png" />
 <img align="left" alt="mysql" width="35px" src="https://cdn-icons-png.flaticon.com/128/919/919836.png" />
 <img align="left" alt="django" width="35px" src="https://cdn-icons-png.flaticon.com/128/9307/9307630.png" />
-<img align="left" alt="firebase" width="35px" src="https://img.icons8.com/color/48/000000/google-firebase-console.png" />
-<img align="left" alt="PHP" width="35px" height="35px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.pkqphAig1t-PCsy4dkVrfAHaD5%26pid%3DApi&f=1&ipt=3f863e850090f5ab280f967f295d666ec2b1e5b7ef0a45f01058f7c98dfc44a4&ipo=images" />
-<img align="left" alt="Linux" width="35px" src="https://seeklogo.com/images/L/Linux-logo-CFCA1C571C-seeklogo.com.png" /><br>
+<img align="left" alt="firebase" width="35px" src="https://icon.icepanel.io/Technology/svg/Firebase.svg" />
+<img align="left" alt="PHP" width="35px" height="35px" src="https://cdn-icons-png.flaticon.com/128/5968/5968332.png" />
+<img align="left" alt="Linux" width="35px" src="https://cdn-icons-png.flaticon.com/128/6124/6124995.png" /><br>
 </p>
 <br/>
 <br/>
