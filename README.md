@@ -21,7 +21,8 @@
 <p align="left">
   
 <img align="left" alt="HTML5" width="40px" src="https://cdn-icons-png.flaticon.com/128/1051/1051277.png" />
-<img align="left" alt="CSS3" width="40px" height="40px" src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png" />   
+<img align="left" alt="CSS3" width="40px" height="40px" src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png" /> 
+<img align="left" alt="Bootstrap" width="40px" src="https://cdn-icons-png.flaticon.com/128/5968/5968672.png" />
 <img align="left" alt="JavaScript" width="40px" src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" />
 <img align="left" alt="python" width="40px" src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" />
 <img align="left" alt="Visual Studio Code" width="40px" src="https://code.visualstudio.com/assets/images/code-stable.png" />
