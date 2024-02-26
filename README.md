@@ -40,7 +40,8 @@
 
 ## Current GitHub Stats 📊
 ![Stats](https://github-readme-stats.vercel.app/api?username=bhanushuklaa&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true)<br>
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhanushuklaa&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhanushuklaa&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact) <br>
+[![Bhanu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bhanushuklaa&&theme=github-compact)](https://github.com/bhanushuklaa/github-readme-activity-graph)
 
 <br>
 
