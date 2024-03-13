@@ -39,8 +39,8 @@
 <div>
 
 ## Current GitHub Stats 📊
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=bhanushuklaa&count_private=true&theme=tokyonight&showicons=true)]()  &nbsp;&nbsp;&nbsp;&nbsp;
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bhanushuklaa&langs_count=5&theme=tokyonight)]()
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhanushuklaa&show_icons=true&theme=gruvbox)  &nbsp;&nbsp;&nbsp;&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhanushuklaa&layout=donut)](https://github.com/bhanushuklaa/github-readme-stats)
 
 
 
