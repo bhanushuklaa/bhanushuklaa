@@ -39,7 +39,7 @@
 <div>
 
 ## Current GitHub Stats 📊
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhanushuklaa&show_icons=true&theme=gruvbox)  &nbsp;&nbsp;&nbsp;&nbsp;
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhanushuklaa&show_icons=true&theme=gruvbox)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhanushuklaa&layout=donut)](https://github.com/bhanushuklaa/github-readme-stats)
 
 
