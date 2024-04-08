@@ -32,7 +32,9 @@
 <img align="left" alt="firebase" width="40px" src="https://icon.icepanel.io/Technology/svg/Firebase.svg" />
 <img align="left" alt="PHP" width="40px" height="35px" src="https://cdn-icons-png.flaticon.com/128/5968/5968332.png" />
 <img align="left" alt="Git" width="40px" height="40px" src="https://cdn-icons-png.flaticon.com/128/11518/11518876.png" />
-<img align="left" alt="Linux" width="40px" src="https://cdn-icons-png.flaticon.com/128/6124/6124995.png" /><br>
+<img align="left" alt="Linux" width="40px" src="https://cdn-icons-png.flaticon.com/128/6124/6124995.png" />
+<img align="left" alt="Reactjs" width="40px" src="https://cdn-icons-png.flaticon.com/128/10832/10832132.png" />
+<img align="left" alt="Jupyter" width="40px" src="https://img.icons8.com/fluency/48/jupyter.png" />
 </p>
 <br/>
 <br/>
