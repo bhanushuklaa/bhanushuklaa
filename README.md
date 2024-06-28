@@ -26,7 +26,7 @@
 <img align="left" alt="JavaScript" width="40px" src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" />
 <img align="left" alt="python" width="40px" src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" />
 <img align="left" alt="Visual Studio Code" width="40px" src="https://code.visualstudio.com/assets/images/code-stable.png" />
-<img align="left" alt="Nodejs" width="40px" src="https://cdn-icons-png.flaticon.com/128/919/919825.png" />
+<!--<img align="left" alt="Nodejs" width="40px" src="https://cdn-icons-png.flaticon.com/128/919/919825.png" />-->
 <img align="left" alt="mysql" width="40px" src="https://cdn-icons-png.flaticon.com/128/919/919836.png" />
 <img align="left" alt="django" width="40px" src="https://cdn-icons-png.flaticon.com/128/9307/9307630.png" />
 <img align="left" alt="firebase" width="40px" src="https://icon.icepanel.io/Technology/svg/Firebase.svg" />
