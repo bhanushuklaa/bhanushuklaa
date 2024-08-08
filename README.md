@@ -9,7 +9,7 @@
 </p>
 ## 🙋‍♂️ About Me
 
-- 👨🏽‍💻 I'm currently learning to create API's and working on scripting
+- 👨🏽‍💻 I'm currently working with Rest APIs usng Python REST FRAMEWORK
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - 👨‍💻 All of my projects are available at **[My Github Account](https://github.com/bhanushuklaa?tab=repositories)**
 - 📫 You can reach me at [linkedin] or send me a personalized **<a href="https://www.linkedin.com/in/bhanushuklaa/">LinkedIn</a>** 
