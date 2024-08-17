@@ -65,6 +65,6 @@
 
 <br>
 <h3 alight="left">Activity:</h3><hr>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhanushuklaa&" alt="bhanushuklaa" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhanushuklaa&" alt="bhanushuklaa" /></p>
 </div>
 ---------------Thank You For Visiting----------------
