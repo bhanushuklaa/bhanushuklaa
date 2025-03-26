@@ -12,8 +12,8 @@
 
 ## 🙋‍♂️ About Me
 
-- 👨🏽‍💻 I'm currently working with REST APIs using Python REST FRAMEWORK
-- 👯 I’m looking to collaborate on **Open Source Projects**
+- 👨🏽‍💻 I'm currently working with in FastAPI and Natural Processing Language(NPL)
+- 👯 I’m looking to collaborate on **Open Source Projects** to make my skills more sharp
 - 👨‍💻 All of my projects are available at **[My GitHub Account](https://github.com/bhanushuklaa?tab=repositories)**
 - 📫 You can reach me on **<a href="https://www.linkedin.com/in/bhanushuklaa/">LinkedIn</a>**
 - 🧗 I try to: Go beyond and push the bounds
