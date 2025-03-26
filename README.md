@@ -22,21 +22,69 @@
 ## 🚀 Languages and Tools:
 
 <p align="left">
-<img src="https://cdn-icons-png.flaticon.com/128/1051/1051277.png" alt="HTML5" width="40px" />
-<img src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png" alt="CSS3" width="40px" />
-<img src="https://cdn-icons-png.flaticon.com/128/5968/5968672.png" alt="Bootstrap" width="40px" />
-<img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" alt="JavaScript" width="40px" />
-<img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" alt="Python" width="40px" />
-<img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VS Code" width="40px" />
-<img src="https://cdn-icons-png.flaticon.com/128/919/919836.png" alt="MySQL" width="40px" />
-<img src="https://cdn-icons-png.flaticon.com/128/9307/9307630.png" alt="Django" width="40px" />
-<img src="https://icon.icepanel.io/Technology/svg/Firebase.svg" alt="Firebase" width="40px" />
-<img src="https://cdn-icons-png.flaticon.com/128/5968/5968332.png" alt="PHP" width="40px" />
-<img src="https://cdn-icons-png.flaticon.com/128/11518/11518876.png" alt="Git" width="40px" />
-<img src="https://cdn-icons-png.flaticon.com/128/6124/6124995.png" alt="Linux" width="40px" />
-<img src="https://cdn-icons-png.flaticon.com/128/10832/10832132.png" alt="React.js" width="40px" />
-<img src="https://img.icons8.com/fluency/48/jupyter.png" alt="Jupyter" width="40px" />
-<img src="https://cdn-icons-png.flaticon.com/128/8297/8297437.png" alt="REST API" width="40px" />
+  <a href="#">
+    <img src="https://cdn-icons-png.flaticon.com/128/1051/1051277.png" alt="HTML5" width="50px"/>
+  </a>
+
+  <a href="#">
+    <img src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png" alt="CSS3" width="50px"/>
+  </a>
+
+  <a href="#">
+    <img src="https://cdn-icons-png.flaticon.com/128/5968/5968672.png" alt="Bootstrap" width="50px"/>
+  </a>
+
+  <a href="#">
+    <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" alt="JavaScript" width="50px"/>
+  </a>
+
+  <a href="#">
+    <img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" alt="Python" width="50px"/>
+  </a>
+
+  <a href="#">
+    <img src="https://cdn-icons-png.flaticon.com/128/919/919836.png" alt="MySQL" width="50px"/>
+  </a>
+
+  <a href="#">
+    <img src="https://cdn-icons-png.flaticon.com/128/9307/9307630.png" alt="Django" width="50px"/>
+  </a>
+
+  <a href="#">
+    <img src="https://icon.icepanel.io/Technology/svg/Firebase.svg" alt="Firebase" width="50px"/>
+  </a>
+
+  <a href="#">
+    <img src="https://cdn-icons-png.flaticon.com/128/11518/11518876.png" alt="Git" width="50px"/>
+  </a>
+
+  <a href="#">
+    <img src="https://cdn-icons-png.flaticon.com/128/6124/6124995.png" alt="Linux" width="50px"/>
+  </a>
+
+  <a href="#">
+    <img src="https://cdn-icons-png.flaticon.com/128/10832/10832132.png" alt="React.js" width="50px"/>
+  </a>
+
+  <a href="#">
+    <img src="https://img.icons8.com/fluency/48/jupyter.png" alt="Jupyter" width="50px"/>
+  </a>
+
+  <a href="#">
+    <img src="https://justinjbird.com/images/apps/mermaid.webp" alt="Mermaid.js" width="50px"/>
+  </a>
+
+  <a href="#">
+    <img src="https://www.bypeople.com/wp-content/uploads/2018/10/grape-js-featured.png" alt="GrapeJS" width="50px"/>
+  </a>
+
+  <a href="#">
+    <img src="https://miro.medium.com/v2/resize:fit:1129/1*YLVDNh5aXa5BxBeYQYPlow.jpeg" alt="WebRTC" width="50px"/>
+  </a>
+
+  <a href="#">
+    <img src="https://www.parasoft.com/wp-content/uploads/2021/04/CICD_CICD.png" alt="CI/CD" width="50px"/>
+  </a>
 </p>
 
 ## 📊 GitHub Stats
