@@ -1,6 +1,6 @@
  <h1 align="center">Hi 👋, I'm Bhanu Pratap Shukla</h1>
 
-<h3 align="center">I'm a Frontend and Backend Developer.</h3>
+<h3 align="center">I'm a Backend Developer</h3>
 <p align="center">
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=bhanushuklaa">
