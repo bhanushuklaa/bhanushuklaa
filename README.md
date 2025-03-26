@@ -43,12 +43,14 @@
 
 <p align="center">
   <a href="https://github.com/bhanushuklaa">
-    <img align="center" height="180" width="400" src="https://github-readme-stats.vercel.app/api?username=bhanushuklaa&show_icons=true&hide_border=true&title_color=94b4a4&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000&count_private=true&include_all_commits=true"/>
+    <img align="center" height="180" width="400" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bhanushuklaa&show_icons=true&hide_border=true&title_color=94b4a4&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000&count_private=true&include_all_commits=true"/>
   </a>
   <a href="https://github.com/bhanushuklaa">
-    <img align="center" height="180" width="335" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhanushuklaa&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
-  </a>
+    <img align="center" height="180" width="335" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bhanushuklaa&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true&cache_seconds=3600" />
+</a>
+
 </p>
+
 
 ## 📌 GitHub Activity
 
