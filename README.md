@@ -1,13 +1,20 @@
- <h1 align="center">Hi 👋, I'm Bhanu Pratap Shukla</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Bhanu+Pratap+Shukla;💻+Backend+Developer;⚡+FastAPI+%7C+Django;🛡️+Security+Tool+Collector;🚀+Open+Source+Contributor;🎯+Always+Learning+New+Tech!" alt="Typing SVG" />
+</h1>
 
-<h3 align="center">I'm a Backend Developer</h3>
+
+<h3 align="center">🧠 Tech-Driven | 💻 Backend Focused | 🛡️ Security Curious</h3>
+
 <p align="center">
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=bhanushuklaa">
-</a>
-<a href="https://github.com/bhanushuklaa?tab=followers">
-    <img src="https://img.shields.io/github/followers/bhanushuklaa?label=Followers&style=social" alt="GitHub Badge">
-</a>
+  <a href="https://komarev.com/ghpvc/?username=bhanushuklaa" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=bhanushuklaa&style=flat-square&color=00FF00" alt="Profile views"/>
+  </a>
+  <a href="https://github.com/bhanushuklaa?tab=followers" target="_blank">
+    <img src="https://img.shields.io/github/followers/bhanushuklaa?label=Followers&style=social" alt="GitHub Followers"/>
+  </a>
+  <a href="https://www.linkedin.com/in/bhanushuklaa/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Bhanu%20Shukla-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn Badge"/>
+  </a>
 </p>
 
 ## 🙋‍♂️ About Me
@@ -71,13 +78,12 @@
 </a>
 
 
+## 📊 GitHub Activity Graph
 
-## 📌 GitHub Activity
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhanushuklaa&theme=tokyo-night&hide_border=true&bg_color=000000&color=00ff00&line=00ff00&point=ffffff" width="100%"/>
 
-![Bhanu's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bhanushuklaa&theme=react-dark)
 
-<h3 align="left">Activity:</h3>
 <hr>
 
+<h3 align="center">✨ <span style="color:#00FF00;">-------------- Thank You For Visiting --------------</span> ✨</h3>
 
----------------Thank You For Visiting----------------
