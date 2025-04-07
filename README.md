@@ -12,80 +12,52 @@
 
 ## 🙋‍♂️ About Me
 
-- 👨🏽‍💻 I'm currently working with in FastAPI and Natural Processing Language(NPL)
-- 👯 I’m looking to collaborate on **Open Source Projects** to make my skills more sharp
-- 👨‍💻 All of my projects are available at **[My GitHub Account](https://github.com/bhanushuklaa?tab=repositories)**
-- 📫 You can reach me on **<a href="https://www.linkedin.com/in/bhanushuklaa/">LinkedIn</a>**
-- 🧗 I try to: Go beyond and push the bounds
-- ⚡ Fun fact **I like to collect different types of hacking tools for educational and security purposes**
+- 👨🏽‍💻 <u>Currently working with</u> **FastAPI** and **Natural Language Processing (NLP)**
+- 💡 <u>Worked in:</u>  
+  - 🚀 **Python**, **Django**, **Django REST Framework**, **Django CMS**  
+  - ⚙️ **FastAPI**, **API Development**, **Asynchronous Programming**  
+  - 🐳 **CI/CD with GitHub Actions**, **EC2 Deployment**, **AWS S3 || IAM**   
+  - 🔐 **Vulnerability Scanning Tools**: Nmap, OpenVAS  
+  - 🧠 **Machine Learning** for profiling and social media analysis  
+- 👯 <u>Always open to collaborate on</u> **Open Source Projects** to sharpen my skills
+- 💻 <u>All my projects are available here:  🔗 **[GitHub Profile](https://github.com/bhanushuklaa?tab=repositories)**</u>  
+- 📫 <u>Connect with me on:  🔗 **<a href="https://www.linkedin.com/in/bhanushuklaa/">LinkedIn</a>**</u>  
+- 🧗 <u>My motto:</u> Go beyond and push the limits 🚀
+- ⚡ <u>Fun fact:</u> I build tools that can find vulnerabilities, predict user patterns, and still look like they came from a hacker movie 🎯👨🏽‍💻
 
-## 🚀 Languages and Tools:
+---
 
-<p align="left">
-  <a href="#">
-    <img src="https://cdn-icons-png.flaticon.com/128/1051/1051277.png" alt="HTML5" width="50px"/>
-  </a>
+## 🚀 Languages and Tools
 
-  <a href="#">
-    <img src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png" alt="CSS3" width="50px"/>
-  </a>
+<table align="center">
 
-  <a href="#">
-    <img src="https://cdn-icons-png.flaticon.com/128/5968/5968672.png" alt="Bootstrap" width="50px"/>
-  </a>
+  <tr>
+    <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" width="40"/><br>Python</td>
+    <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/9307/9307630.png" width="40"/><br>Django</td>
+    <td align="center"><img src="https://img.icons8.com/fluency/48/jupyter.png" width="40"/><br>Jupyter</td>
+    <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968342.png" width="40"/><br>PostgreSQL</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://justinjbird.com/images/apps/mermaid.webp" width="40"/><br>Mermaid.js</td>
+    <td align="center"><img src="https://www.bypeople.com/wp-content/uploads/2018/10/grape-js-featured.png" width="40"/><br>GrapeJS</td>
+    <td align="center"><img src="https://miro.medium.com/v2/resize:fit:1129/1*YLVDNh5aXa5BxBeYQYPlow.jpeg" width="40"/><br>WebRTC</td>
+    <td align="center"><img src="https://www.parasoft.com/wp-content/uploads/2021/04/CICD_CICD.png" width="40"/><br>CI/CD</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/919/919836.png" width="40"/><br>MySQL</td>
+    <td align="center"><img src="https://w7.pngwing.com/pngs/141/126/png-transparent-fastapi-hd-logo-thumbnail.png" width="40"/><br>FastAPI</td>
+    <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/11518/11518876.png" width="40"/><br>Git</td>
+    <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/6124/6124995.png" width="40"/><br>Linux</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/1051/1051277.png" width="40"/><br>HTML5</td>
+    <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png" width="40"/><br>CSS3</td>
+    <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968672.png" width="40"/><br>Bootstrap</td>
+    <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" width="40"/><br>JavaScript</td>
+  </tr>
+</table>
 
-  <a href="#">
-    <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" alt="JavaScript" width="50px"/>
-  </a>
 
-  <a href="#">
-    <img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" alt="Python" width="50px"/>
-  </a>
-
-  <a href="#">
-    <img src="https://cdn-icons-png.flaticon.com/128/919/919836.png" alt="MySQL" width="50px"/>
-  </a>
-
-  <a href="#">
-    <img src="https://cdn-icons-png.flaticon.com/128/9307/9307630.png" alt="Django" width="50px"/>
-  </a>
-
-  <a href="#">
-    <img src="https://icon.icepanel.io/Technology/svg/Firebase.svg" alt="Firebase" width="50px"/>
-  </a>
-
-  <a href="#">
-    <img src="https://cdn-icons-png.flaticon.com/128/11518/11518876.png" alt="Git" width="50px"/>
-  </a>
-
-  <a href="#">
-    <img src="https://cdn-icons-png.flaticon.com/128/6124/6124995.png" alt="Linux" width="50px"/>
-  </a>
-
-  <a href="#">
-    <img src="https://cdn-icons-png.flaticon.com/128/10832/10832132.png" alt="React.js" width="50px"/>
-  </a>
-
-  <a href="#">
-    <img src="https://img.icons8.com/fluency/48/jupyter.png" alt="Jupyter" width="50px"/>
-  </a>
-
-  <a href="#">
-    <img src="https://justinjbird.com/images/apps/mermaid.webp" alt="Mermaid.js" width="50px"/>
-  </a>
-
-  <a href="#">
-    <img src="https://www.bypeople.com/wp-content/uploads/2018/10/grape-js-featured.png" alt="GrapeJS" width="50px"/>
-  </a>
-
-  <a href="#">
-    <img src="https://miro.medium.com/v2/resize:fit:1129/1*YLVDNh5aXa5BxBeYQYPlow.jpeg" alt="WebRTC" width="50px"/>
-  </a>
-
-  <a href="#">
-    <img src="https://www.parasoft.com/wp-content/uploads/2021/04/CICD_CICD.png" alt="CI/CD" width="50px"/>
-  </a>
-</p>
 
 ## 📊 GitHub Stats
 
