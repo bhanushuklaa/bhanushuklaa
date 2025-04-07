@@ -3,7 +3,7 @@
 </h1>
 
 
-<h3 align="center">🧠 Tech-Driven | 💻 Backend Focused | 🛡️ Security Curious</h3>
+<h3 align="center">🧠 Tech-Driven | 💻 Backend Focused |  🛡️ Security Curious</h3>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=bhanushuklaa" target="_blank">
@@ -85,5 +85,5 @@
 
 <hr>
 
-<h3 align="center">✨ <span style="color:#00FF00;">-------------- Thank You For Visiting --------------</span> ✨</h3>
+<h3 align="center">✨ <span style="color:#00FF00;">------- Thank You For Visiting -------</span>✨</h3>
 
