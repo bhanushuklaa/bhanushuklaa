@@ -80,10 +80,12 @@
 
 ## 📊 GitHub Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhanushuklaa&theme=tokyo-night&hide_border=true&bg_color=000000&color=00ff00&line=00ff00&point=ffffff" width="100%"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhanushuklaa&theme=github-compact&bg_color=000000&color=00ff00&line=00ff00&point=ffffff&hide_border=true" width="100%"/>
 
 <hr>
 
-<h3 align="center">✨ <span style="color:#00FF00;">------- Thank You For Visiting -------</span>✨</h3>
+<h3 align="center" style="color:#00ff00;">
+  ⬛ Thank you for visiting! Stay curious, stay secure. 💻
+</h3>
+
 
