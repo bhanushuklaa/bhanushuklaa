@@ -70,17 +70,18 @@
 
 <p align="center">
   <a href="https://github.com/bhanushuklaa">
-    <img align="center" height="180" width="400" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bhanushuklaa&show_icons=true&hide_border=true&title_color=94b4a4&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000&count_private=true&include_all_commits=true"/>
+    <img align="center" height="180" width="400" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bhanushuklaa&show_icons=true&hide_border=true&title_color=94b4a4&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000&count_private=true&include_all_commits=true&cache_seconds=30&v=4"/>
   </a>
-<a href="https://github.com/bhanushuklaa">
-  <img align="center" height="180" width="335"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bhanushuklaa&show_icons=true&locale=en&layout=compact&hide_border=true&hide=css,scss,shell,dockerfile&langs_count=10&bg_color=000000&title_color=94b4a4&text_color=FFFFFF" />
-</a>
+  <a href="https://github.com/bhanushuklaa">
+    <img align="center" height="180" width="335"
+      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bhanushuklaa&show_icons=true&locale=en&layout=compact&hide_border=true&hide=css,scss,shell,dockerfile&langs_count=10&bg_color=000000&title_color=94b4a4&text_color=FFFFFF&cache_seconds=30&v=4" />
+  </a>
+</p>
 
 
 ## 📊 GitHub Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhanushuklaa&theme=github-compact&bg_color=000000&color=00ff00&line=00ff00&point=ffffff&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhanushuklaa&theme=github-compact&bg_color=000000&color=00ff00&line=00ff00&point=ffffff&hide_border=true&cache_seconds=30&v=5" width="100%"/>
 
 <hr>
 
