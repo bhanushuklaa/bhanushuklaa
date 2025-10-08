@@ -77,7 +77,7 @@
       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bhanushuklaa&show_icons=true&locale=en&layout=compact&hide_border=true&hide=css,scss,shell,dockerfile&langs_count=10&bg_color=000000&title_color=94b4a4&text_color=FFFFFF&cache_seconds=30&v=4" />
   </a>
 </p>
-
+<!--[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/bhanushuklaa?cardType=level-alternate&theme=dark&preferLogin=false)](https://git.io/awesome-stats-card)-->
 
 ## 📊 GitHub Activity Graph
 
