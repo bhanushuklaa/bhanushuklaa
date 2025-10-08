@@ -72,10 +72,12 @@
   <a href="https://github.com/bhanushuklaa">
     <img align="center" height="180" width="400" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bhanushuklaa&show_icons=true&hide_border=true&title_color=94b4a4&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000&count_private=true&include_all_commits=true&cache_seconds=30&v=4"/>
   </a>
-  <a href="https://github.com/bhanushuklaa">
-    <img align="center" height="180" width="335"
-      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bhanushuklaa&show_icons=true&locale=en&layout=compact&hide_border=true&hide=css,scss,shell,dockerfile&langs_count=10&bg_color=000000&title_color=94b4a4&text_color=FFFFFF&cache_seconds=30&v=4" />
-  </a>
+<img
+  align="center"
+  height="180"
+  width="335"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhanushuklaa&layout=compact&hide_border=true&hide=css,scss,shell,dockerfile&langs_count=10&bg_color=000000&title_color=94b4a4&text_color=FFFFFF"
+/>
 </p>
 <!--[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/bhanushuklaa?cardType=level-alternate&theme=dark&preferLogin=false)](https://git.io/awesome-stats-card)-->
 
