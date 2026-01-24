@@ -68,8 +68,8 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-stats-three-pink.vercel.app/stats.svg" />
-  <img src="https://github-stats-three-pink.vercel.app/langs.svg" />
+  <img src="https://github-stats-three-pink.vercel.app/api/stats.svg" />
+  <img src="https://github-stats-three-pink.vercel.app/api/langs.svg" />
 </p>
 
 
