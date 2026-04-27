@@ -68,7 +68,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-stats-three-pink.vercel.app/api/stats.svg" />
+  <img src="https://github-stats-three-pink.vercel.app/api/stats.svg" />   <!--token will expire in 2 months-->
   <img src="https://github-stats-three-pink.vercel.app/api/langs.svg" />
 </p>
 
