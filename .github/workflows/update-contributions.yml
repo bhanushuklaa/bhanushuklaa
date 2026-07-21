@@ -1,0 +1,50 @@
+name: Update contribution counts
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "15 * * * *"
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - "assets/contribution-counts.svg"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-profile-contributions
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate contribution count card
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PROFILE_USERNAME: bhanushuklaa
+        run: python scripts/update_contribution_card.py
+
+      - name: Commit updated card
+        run: |
+          if git diff --quiet -- assets/contribution-counts.svg; then
+            echo "Contribution count is already current."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/contribution-counts.svg
+          git commit -m "chore: update yearly contribution counts"
+          git push
