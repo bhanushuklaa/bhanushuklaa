@@ -367,17 +367,6 @@ mission:
 
 </div>
 
-<br/>
-
-<div align="center">
-
-<img
-  width="70%"
-  src="https://github-readme-streak-stats.herokuapp.com/?user=bhanushuklaa&hide_border=true&background=0D1117&stroke=00E5FF&ring=00E5FF&fire=FF006E&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"
-  alt="GitHub Streak"
-/>
-
-</div>
 
 ---
 
@@ -385,11 +374,33 @@ mission:
 
 <div align="center">
 
+<table>
+<tr>
+<td width="76%" valign="middle" align="center">
+
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=bhanushuklaa&bg_color=0D1117&color=00E5FF&line=8B5CF6&point=FFFFFF&area=true&hide_border=true&custom_title=Bhanu%20Pratap%20Shukla's%20Contribution%20Graph"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=bhanushuklaa&bg_color=0D1117&color=00E5FF&line=8B5CF6&point=FFFFFF&area=true&hide_border=true&custom_title=Bhanu%20Pratap%20Shukla%27s%20Contribution%20Graph&cache_seconds=1800"
   width="100%"
-  alt="GitHub Activity Graph"
+  alt="GitHub contribution activity graph"
 />
+
+</td>
+
+<td width="24%" valign="middle" align="center">
+
+### 📊 Contribution Count
+
+<img
+  src="./assets/contribution-counts.svg"
+  width="100%"
+  alt="Current and previous year GitHub contribution counts"
+/>
+
+<sub>Automatically refreshed every hour.</sub>
+
+</td>
+</tr>
+</table>
 
 </div>
 
