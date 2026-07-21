@@ -34,7 +34,7 @@
   <text x="150" y="125" text-anchor="middle" fill="#00E5FF"
         font-family="Segoe UI, Ubuntu, sans-serif" font-size="43" font-weight="800"
         filter="url(#glow)">
-    168
+    169
   </text>
 
   <line x1="24" y1="145" x2="276" y2="145" stroke="#30363D"/>
