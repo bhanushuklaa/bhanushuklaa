@@ -355,13 +355,13 @@ mission:
 
 <img
   width="49%"
-  src="https://github-readme-stats.vercel.app/api?username=bhanushuklaa&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=8B5CF6&text_color=FFFFFF&ring_color=00E5FF"
+  src="https://github-stats-4458caz65-bhanu-shuklas-projects.vercel.app/api/stats.svg"
   alt="GitHub Statistics"
 />
 
 <img
   width="49%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhanushuklaa&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=FFFFFF"
+  src="https://github-stats-4458caz65-bhanu-shuklas-projects.vercel.app/api/langs.svg"
   alt="Top Languages"
 />
 
