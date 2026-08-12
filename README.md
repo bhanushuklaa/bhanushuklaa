@@ -348,20 +348,19 @@ mission:
 </div>
 
 ---
-
 ## `> GITHUB_ANALYTICS`
 
 <div align="center">
 
 <img
   width="49%"
-  src="https://github-stats-4458caz65-bhanu-shuklas-projects.vercel.app/api/stats.svg"
+  src="https://github-stats-three-pink.vercel.app/api/stats.svg"
   alt="GitHub Statistics"
 />
 
 <img
   width="49%"
-  src="https://github-stats-4458caz65-bhanu-shuklas-projects.vercel.app/api/langs.svg"
+  src="https://github-stats-three-pink.vercel.app/api/langs.svg"
   alt="Top Languages"
 />
 
@@ -373,7 +372,7 @@ mission:
 
 <img
   width="70%"
-  src="https://github-readme-streak-stats.herokuapp.com/?user=bhanushuklaa&hide_border=true&background=0D1117&stroke=00E5FF&ring=00E5FF&fire=FF006E&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"
+  src="https://streak-stats.demolab.com/?user=bhanushuklaa&hide_border=true&background=0D1117&stroke=00E5FF&ring=00E5FF&fire=FF006E&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"
   alt="GitHub Streak"
 />
 
