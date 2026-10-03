@@ -17,7 +17,7 @@
 
 <br/>
 
-### `Backend Engineering` • `Artificial Intelligence` • `Computer Vision` • `Geospatial Technology`
+### `Backend Engineering` • `Artificial Intelligence` • `Geospatial Technology`
 
 <br/>
 
@@ -49,8 +49,7 @@ name: Bhanu Pratap Shukla
 role:
   - Backend Developer
   - Python Developer
-  - AI and RAG Developer
-  - Computer Vision Developer
+  - AI and RAG Developer 
   - Geospatial Intelligence and Spatial Computing Enthusiast
 
 current_focus:
@@ -64,7 +63,7 @@ current_focus:
 
 mission:
   "Build intelligent backend systems that connect AI,
-   computer vision, geospatial data and cloud infrastructure."
+   Geospatial data and cloud infrastructure."
 ```
 
 ---
@@ -78,7 +77,7 @@ mission:
 - ☁️ Deploying backend services using **AWS Lambda**, **S3**, **EC2**, **IAM**, **API Gateway**, and **CloudFront**
 - ⚙️ Building asynchronous APIs, automation pipelines, and scalable processing systems
 - 🔐 Exploring vulnerability assessment using **Nmap**, **OpenVAS**, and security automation
-- 🤝 Open to collaborating on **AI, backend, computer vision, geospatial, and open-source projects**
+- 🤝 Open to collaborating on **AI, backend, geospatial, and open-source projects**
 - 🚀 Motto: **Go beyond limitations and engineer solutions that create real impact**
 
 ---
@@ -149,13 +148,11 @@ mission:
 <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
-<img src="https://img.shields.io/badge/Transformers-ffcc00?style=for-the-badge&logo=huggingface&logoColor=black" alt="Transformers"/>
 <img src="https://img.shields.io/badge/Embeddings-8b5cf6?style=for-the-badge&logo=openai&logoColor=white" alt="Embeddings"/>
 
 <br/>
 
 <img src="https://img.shields.io/badge/ChromaDB-FF4F00?style=for-the-badge&logo=database&logoColor=white" alt="ChromaDB"/>
-<img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white" alt="FAISS"/>
 <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=database&logoColor=white" alt="Qdrant"/>
 <img src="https://img.shields.io/badge/Semantic%20Search-00c8ff?style=for-the-badge&logo=elasticsearch&logoColor=black" alt="Semantic Search"/>
 <img src="https://img.shields.io/badge/Document%20Intelligence-111827?style=for-the-badge&logo=googledocs&logoColor=white" alt="Document Intelligence"/>
@@ -163,10 +160,8 @@ mission:
 <br/>
 
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
-<img src="https://img.shields.io/badge/Computer%20Vision-00c8ff?style=for-the-badge&logo=opencv&logoColor=black" alt="Computer Vision"/>
 <img src="https://img.shields.io/badge/Image%20Processing-22c55e?style=for-the-badge&logo=googlephotos&logoColor=white" alt="Image Processing"/>
 <img src="https://img.shields.io/badge/Object%20Detection-ff006e?style=for-the-badge&logo=target&logoColor=white" alt="Object Detection"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
 
 </div>
@@ -213,7 +208,7 @@ mission:
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis" alt="Databases"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb" alt="Databases"/>
 
 </div>
 
