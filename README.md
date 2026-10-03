@@ -354,13 +354,13 @@ mission:
 
 <img
   width="49%"
-  src="https://github-stats-three-pink.vercel.app/api/stats.svg"
+  src="https://github-stats-vercel-two.vercel.app/api/langs.svg"
   alt="GitHub Statistics"
 />
 
 <img
   width="49%"
-  src="https://github-stats-three-pink.vercel.app/api/langs.svg"
+  src="https://github-stats-vercel-two.vercel.app/api/stats.svg"
   alt="Top Languages"
 />
 
@@ -385,7 +385,7 @@ mission:
 <div align="center">
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=bhanushuklaa&bg_color=0D1117&color=00E5FF&line=8B5CF6&point=FFFFFF&area=true&hide_border=true&custom_title=Bhanu%20Pratap%20Shukla's%20Contribution%20Graph"
+  src="https://github-stats-vercel-two.vercel.app/api/commits.svg"
   width="100%"
   alt="GitHub Activity Graph"
 />
